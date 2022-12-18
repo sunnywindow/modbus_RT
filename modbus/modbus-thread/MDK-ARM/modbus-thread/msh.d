@@ -1,0 +1,17 @@
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.c
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+modbus-thread\msh.o: ../RT-Thread/rtconfig.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/msh.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+modbus-thread\msh.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+modbus-thread\msh.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/shell.h

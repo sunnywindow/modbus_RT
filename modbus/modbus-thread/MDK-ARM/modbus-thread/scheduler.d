@@ -1,0 +1,10 @@
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/src/scheduler.c
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+modbus-thread\scheduler.o: ../RT-Thread/rtconfig.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+modbus-thread\scheduler.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+modbus-thread\scheduler.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h

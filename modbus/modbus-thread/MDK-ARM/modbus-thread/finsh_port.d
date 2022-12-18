@@ -1,0 +1,10 @@
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/components/finsh/finsh_port.c
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+modbus-thread\finsh_port.o: ../RT-Thread/rtconfig.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+modbus-thread\finsh_port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+modbus-thread\finsh_port.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h

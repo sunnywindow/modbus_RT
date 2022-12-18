@@ -1,0 +1,9 @@
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/components/device/device.c
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+modbus-thread\device.o: ../RT-Thread/rtconfig.h
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+modbus-thread\device.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+modbus-thread\device.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
